@@ -13,6 +13,8 @@ body {
     height: 100%;
     margin: 0;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #login {
     display: flex;
@@ -21,4 +23,7 @@ body {
     border: solid black;
     border-radius: 100px;
     padding: 100px;
+}
+#title {
+
 }
