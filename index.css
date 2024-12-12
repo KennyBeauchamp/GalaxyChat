@@ -17,9 +17,6 @@ body {
     align-items: center;
 }
 #login {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     border: solid black;
     border-radius: 35px;
     padding-left: 100px;
