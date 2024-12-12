@@ -22,7 +22,10 @@ body {
     align-items: center;
     border: solid black;
     border-radius: 35px;
-    padding: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 #title {
     
